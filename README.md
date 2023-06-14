@@ -14,7 +14,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Asp.NET**
+- 🔭 I’m currently working on **Asp.NET **
 
 - 🌱 I’m currently learning **C#**
 
@@ -39,4 +39,4 @@
 <a href="https://instagram.com/ertrleren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertrleren" height="30" width="40" target="_blank" /></a>
 <a href="https://medium.com/ertrleren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ertrleren" height="30" width="40" target="_blank" /></a>
 </p>
-
+<h3>hanks for viewing my profile...</h3>

@@ -29,6 +29,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ertrleren/](https://www.linkedin.com/in/ertrleren/)
 
 - ⚡ Fun fact **It's always fun to learn more.**
+- <p align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ertrleren&theme=radical&hide_border=false](https://user-images.githubusercontent.com/107423523/246919736-38798335-0548-4e50-b452-a52266469235.gif)" alt="GitHub Streak" />
+  <br><br>
+  
+</p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">

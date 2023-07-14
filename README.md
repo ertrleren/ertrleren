@@ -30,7 +30,7 @@
 
 - ⚡ Fun fact **It's always fun to learn more.**
 - <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ertrleren&theme=radical&hide_border=false](https://user-images.githubusercontent.com/107423523/246919736-38798335-0548-4e50-b452-a52266469235.gif)" alt="GitHub Streak" />
+ ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/ThecoderPinar/ThecoderPinar/assets/107423523/38798335-0548-4e50-b452-a52266469235)
   <br><br>
   
 </p>
